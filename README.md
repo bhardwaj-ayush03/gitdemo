@@ -1,3 +1,3 @@
 # gitdemo
-This is mt first git repo.<br>
+This is myfirst git repo.<br>
 Author- Ayush Bhardwaj
