@@ -1,3 +1,3 @@
 # gitdemo
-This is myf irst git repo.<br>
+This is my first git repo.<br>
 Author- Ayush Bhardwaj
