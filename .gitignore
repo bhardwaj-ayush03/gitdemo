@@ -1,0 +1,17 @@
+# Python junk
+__pycache__/
+*.pyc
+*.pyo
+
+# Data files
+*.csv
+*.zip
+data/
+
+# Secret files
+.env
+api_keys.txt
+secrets.env
+
+# System files
+.DS_Store
