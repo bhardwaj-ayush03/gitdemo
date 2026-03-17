@@ -1,1 +1,1 @@
-print("Hello from Fedora!")
+print("Learning git")
